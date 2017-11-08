@@ -1,0 +1,3 @@
+1.Nowe funkcje onmousedown,over,up,out.
+2.Dodawanie funkcji onclick w js.!!!(Problematyczne)!
+3.Ustawianie style w javascript.

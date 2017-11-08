@@ -1,0 +1,98 @@
+body
+{
+	background-color: black;
+}
+
+#game
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	height: auto;
+}
+
+#title
+{
+	font-size: 46px;
+	text-align: center;
+	color: #996633;
+}
+
+#alert
+{
+	font-size: 22px;
+	text-align: center;
+	color: purple;
+	font-style: italic;
+	margin-top: 30px;
+}
+
+#platform
+{
+	margin-top: 50px;
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	display: block;
+	margin-left: 345px;
+
+}
+
+.field
+{
+	background-color: #339966;
+	color: black;
+	height: 94px;
+	width: 94px;
+	font-size: 48px;
+	border: 3px outset #996633;
+	float: left;
+}
+
+.field:hover
+{
+	border: 3px inset #996633;
+	background-color: #8cd98c;
+}
+
+img
+{
+	max-width: 100px;
+	max-height: 100px;
+}
+
+#start
+{
+	color: blue;
+}
+
+.score
+{
+	width: 98px;
+	height: 34px;
+	text-align: center;
+	float: left;
+	font-size: 28px;
+	color: white;
+	
+	
+}
+
+#next_round
+{
+	margin-top: 20px;
+	width: 128px;
+	height: 50px;
+	color: purple;
+	font-size: 18px;
+	background-color: #339966;
+	border: 3px outset #996633;
+}
+
+#next_round:active
+{
+	border: 3px inset #996633;
+	background-color: #8cd98c;
+}
+
+
